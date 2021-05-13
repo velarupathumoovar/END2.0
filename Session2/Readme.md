@@ -20,4 +20,10 @@
 
 ![image](https://user-images.githubusercontent.com/24297930/118185747-849efb80-b45a-11eb-9c71-581d7d8ff905.png)
 
+
+**With Learing rate 2.0
 ![image](https://user-images.githubusercontent.com/24297930/118183027-47853a00-b457-11eb-8a3d-74409f143be5.png)
+
+Error Graph
+![image](https://user-images.githubusercontent.com/24297930/118186019-d8a9e000-b45a-11eb-9107-7d3d83949f1c.png)
+
